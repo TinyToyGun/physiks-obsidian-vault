@@ -1,0 +1,4 @@
+- [[Analysis of a function for extrema]]
+- [[Bolzano-Weierstrass]]
+- [[Compact Space]]
+- [[Local invertibility of functions]]
