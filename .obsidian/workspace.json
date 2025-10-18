@@ -165,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of Plan for Tomorrow 16.10.2025"
             }
+          },
+          {
+            "id": "e2c45f2d599e0510",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +193,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "auto-moc:AutoMOC": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "e3fe5ade8ed88157",
