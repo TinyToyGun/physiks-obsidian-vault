@@ -1,5 +1,7 @@
 [
   "auto-moc",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git",
+  "github-sync"
 ]
